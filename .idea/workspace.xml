@@ -7,22 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6712000-a735-45a8-b53f-0384094601e1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pingyougou-service-buyer/src/main/java/cn/itcast/core/service/nj.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/parent332.iml" afterPath="$PROJECT_DIR$/parent332.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-common/pingyougou-common.iml" afterPath="$PROJECT_DIR$/pingyougou-common/pingyougou-common.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-dao/pingyougou-dao.iml" afterPath="$PROJECT_DIR$/pingyougou-dao/pingyougou-dao.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-interface/pingyougou-interface.iml" afterPath="$PROJECT_DIR$/pingyougou-interface/pingyougou-interface.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-pojo/pingyougou-pojo.iml" afterPath="$PROJECT_DIR$/pingyougou-pojo/pingyougou-pojo.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-service-buyer/pingyougou-service-buyer.iml" afterPath="$PROJECT_DIR$/pingyougou-service-buyer/pingyougou-service-buyer.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-service-page/pingyougou-service-page.iml" afterPath="$PROJECT_DIR$/pingyougou-service-page/pingyougou-service-page.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-service-search/pingyougou-service-search.iml" afterPath="$PROJECT_DIR$/pingyougou-service-search/pingyougou-service-search.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-service-sellergoods/pingyougou-service-sellergoods.iml" afterPath="$PROJECT_DIR$/pingyougou-service-sellergoods/pingyougou-service-sellergoods.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-service-user/pingyougou-service-user.iml" afterPath="$PROJECT_DIR$/pingyougou-service-user/pingyougou-service-user.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-web-manger/pingyougou-web-manger.iml" afterPath="$PROJECT_DIR$/pingyougou-web-manger/pingyougou-web-manger.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-web-portal/pingyougou-web-portal.iml" afterPath="$PROJECT_DIR$/pingyougou-web-portal/pingyougou-web-portal.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-web-shop/pingyougou-web-shop.iml" afterPath="$PROJECT_DIR$/pingyougou-web-shop/pingyougou-web-shop.iml" />
-      <change beforePath="$PROJECT_DIR$/pingyougou-web-user/pingyougou-web-user.iml" afterPath="$PROJECT_DIR$/pingyougou-web-user/pingyougou-web-user.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/pingyougou-web-manger/target/" />
     <ignored path="$PROJECT_DIR$/pingyougou-service-search/target/" />
@@ -290,7 +275,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -561,7 +546,7 @@
       <updated>1549952969273</updated>
       <workItem from="1549952970562" duration="1531000" />
       <workItem from="1549960225877" duration="4319000" />
-      <workItem from="1549966393015" duration="939000" />
+      <workItem from="1549966393015" duration="1283000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传">
       <created>1549953400297</created>
@@ -570,11 +555,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549953400297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次上传-buyer">
+      <created>1549967359682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549967359682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6789000" />
+    <option name="totallyTimeSpent" value="7133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -620,7 +612,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次上传" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次上传" />
+    <MESSAGE value="第一次上传-buyer" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次上传-buyer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

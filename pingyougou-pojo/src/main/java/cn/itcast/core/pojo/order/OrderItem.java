@@ -42,6 +42,8 @@ public class OrderItem implements Serializable {
      */
     private BigDecimal totalFee;
 
+
+
     /**
      * 商品图片地址
      */
